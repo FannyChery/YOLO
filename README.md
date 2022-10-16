@@ -11,6 +11,11 @@ The script file, when run, will show the numerical application we made for the t
 
 The effect each parameter has on the function is explained below in the original ReadMe. 
 
+## Importing Projet
+Type this command in a bash terminal to download this projet.
+* `git clone https://github.com/FannyChery/YOLO.git`
+* `cd darknet`
+* `make`
 
 # YOLO-Object-Detection
 
@@ -27,11 +32,6 @@ YOLO stands for **You Only Look Once**. It is a state-of-the-art, real-time obje
 
 <img src='images/img3_detect.png' width=60% height=60%/>
 
-## Importing Projet
-Type this command in a bash terminal to download this projet.
-* `git clone https://github.com/FannyChery/YOLO.git`
-* `cd darknet`
-* `make`
 
 ## Importing Resources
 * `OpenCV` is used to load the images.
