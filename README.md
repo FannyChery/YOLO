@@ -12,7 +12,7 @@ The script file, when run, will show the numerical application we made for the t
 The effect each parameter has on the function is explained below in the original ReadMe. 
 
 ## Importing Projet
-Type this command in a bash terminal to download this projet.
+Type these commands in a bash terminal to download this projet.
 * `git clone https://github.com/FannyChery/YOLO.git`
 * `cd darknet`
 * `make`
