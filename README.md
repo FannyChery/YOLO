@@ -1,6 +1,6 @@
 # Numerical application for YOLOv3
 
-This repository is based on the github repository : 
+This repository is based on the github repository : https://github.com/Vinay-Kalmoodkar/YOLO-Object-Detection
 
 We use this repository as a digital application complementing the summary we wrote about the article You Only Look Once: Unified, Real-Time Object Detection
  by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi; University of Washington, Allen Institute for AI, Facebook AI Research
