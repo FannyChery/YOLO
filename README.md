@@ -14,7 +14,7 @@ The effect each parameter has on the application is explained below in the origi
 ## Importing the Projet
 Type these commands in a bash terminal to download the projet.
 * `git clone https://github.com/FannyChery/YOLO.git`
-* `cd darknet`
+* `cd YOLO`
 * `make`
 
 # YOLO-Object-Detection
