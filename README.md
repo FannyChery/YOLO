@@ -15,6 +15,8 @@ YOLO stands for **You Only Look Once**. It is a state-of-the-art, real-time obje
 
 ## Importing Projet
 * `git clone https://github.com/FannyChery/YOLO.git`
+* `cd darknet`
+* `make`
 
 ## Importing Resources
 * `OpenCV` is used to load the images.
@@ -24,7 +26,7 @@ YOLO stands for **You Only Look Once**. It is a state-of-the-art, real-time obje
 
 ## Important Files 
 * `yolov3.cfg` file contains the network architecture used by YOLOv3 and placed it in the `/cfg/` folder. 
-* `yolov3.weights` file contains the weights of pre-trained model and is placed in the `/weights/` directory. You can easily download the weights using the link [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/media/files/yolov3.weights)
+* `yolov3.weights` file contains the weights of pre-trained model and is placed in the `/weights/` directory. You can easily download the weights using the link [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/media/files/yolov3.weights), with the bash command `wget https://pjreddie.com/media/files/yolov3.weights`
 * `coco.names` file contains the list of the 80 object classes that the weights were trained to detect and is placed in the `/data/` directory.
 
 ## Model Loading and Object Detection.
