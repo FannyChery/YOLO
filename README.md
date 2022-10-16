@@ -1,4 +1,4 @@
-# Numerical application for YOLOv3
+# Digital application for YOLOv3
 
 This repository is based on the github repository : https://github.com/Vinay-Kalmoodkar/YOLO-Object-Detection
 
