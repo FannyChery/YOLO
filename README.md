@@ -6,7 +6,7 @@ We use this repository as a digital application complementing the summary we wro
  by Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi; University of Washington, Allen Institute for AI, Facebook AI Research
 
 
-We reused the code that was available on the original repository. The only added file is the *script.py*. Every other file is from the pre existing repository. 
+We reused the code that was available on the original repository. The only added file is the *script.ipynb*. Every other file is from the pre existing repository. 
 The script file, when run, will show the numerical application we made for the two parameters **iou_thresh** and **nms_thresh** comparing the results that the algorithm gets for different values of these parameters on an available test dataset.  
 
 The effect each parameter has on the application is explained below in the original ReadMe. 
