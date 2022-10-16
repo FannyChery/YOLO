@@ -13,6 +13,9 @@ YOLO stands for **You Only Look Once**. It is a state-of-the-art, real-time obje
 
 <img src='images/img3_detect.png' width=60% height=60%/>
 
+## Importing Projet
+* `git clone https://github.com/FannyChery/YOLO.git`
+
 ## Importing Resources
 * `OpenCV` is used to load the images.
 * `matplotlib` is used to plot/show the images.
